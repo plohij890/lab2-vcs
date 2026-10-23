@@ -11,3 +11,7 @@
 ## Установка
 
 pip install -r requirments.txt
+
+## Тесты
+
+python -m pytest test_backup.py
